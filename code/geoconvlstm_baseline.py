@@ -98,7 +98,7 @@ PAD_MULTIPLE = 2
 
 # 训练参数
 batch_size = 16
-max_epochs = 50
+max_epochs = 100
 early_stopping_patience = 8
 learning_rate = 5e-4
 weight_decay = 0.0
